@@ -1,0 +1,30 @@
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.exe
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.deps.json
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.runtimeconfig.json
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.pdb
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\refint\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.pdb
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\TP-DS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\ref\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.exe
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.deps.json
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\bin\Debug\net6.0\CírculoDeSangre.pdb
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\refint\CírculoDeSangre.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.pdb
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\CírculoDeSangre.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\CírculoDeSangre\CírculoDeSangre\obj\Debug\net6.0\ref\CírculoDeSangre.dll
