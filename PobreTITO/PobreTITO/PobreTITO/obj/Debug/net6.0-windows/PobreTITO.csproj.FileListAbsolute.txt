@@ -26,3 +26,31 @@ C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-window
 C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form2.resources
 C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form3.resources
 C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form4.resources
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\PobreTITO.exe
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\PobreTITO.deps.json
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\PobreTITO.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\PobreTITO.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\PobreTITO.pdb
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form1.resources
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form2.resources
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form3.resources
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.Form4.resources
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.csproj.CopyComplete
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\refint\PobreTITO.dll
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.pdb
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\PobreTITO.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\obj\Debug\net6.0-windows\ref\PobreTITO.dll

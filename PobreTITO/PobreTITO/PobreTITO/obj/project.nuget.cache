@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRPX/uqO1y4tk7izyl4cA7OIXzE5BnZ7RVeFF+7QXNwKb5s3k4VU8G+SN+BY+7XEVM3e8058jYEjnttyYWxGOg==",
+  "dgSpecHash": "Xx0F2Sak7onq074SZb/j5JAAvI1woG5uKVKRoB/3KMWnuf/ohZHnaMdWyI/4bzwLE5F+cDNmOtTXn/UWfBnIhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\PobreTITO\\PobreTITO\\PobreTITO\\PobreTITO.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\UTN\\3er AÑO\\Diseño de Sistemas\\TPsDS\\TPsDS\\PobreTITO\\PobreTITO\\PobreTITO\\PobreTITO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
