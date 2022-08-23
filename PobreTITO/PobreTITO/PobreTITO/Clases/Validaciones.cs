@@ -10,7 +10,7 @@ namespace PobreTITO
 {
     internal class Validaciones : AbstractValidator<Persona>
     {
-        SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\BD\BD_PobreTITO.mdf;Integrated Security=True");
+        SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\BD\BD_PobreTITO.mdf"";Integrated Security=True");
         public Validaciones()
         {
             RuleFor(x => x.nombreApellido).NotEmpty().MaximumLength(50);

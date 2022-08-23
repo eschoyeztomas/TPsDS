@@ -10,7 +10,7 @@ namespace PobreTITO
 {
     internal class GestorPobreTITO
     {
-        SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Usuario\Downloads\PobreTITO\PobreTITO\PobreTITO\BD\BD_PobreTITO.mdf;Integrated Security=True");
+        SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Usuario\Downloads\UTN\3er AÑO\Diseño de Sistemas\TPsDS\TPsDS\PobreTITO\PobreTITO\PobreTITO\BD\BD_PobreTITO.mdf"";Integrated Security=True");
         int id_persona;
         public void gestionarRegistro(string nombreApellido, string dni, DateOnly fechaNacimiento, string telefono, string email, string usuario, string contraseña)
         {
@@ -31,6 +31,12 @@ namespace PobreTITO
         }
         public bool iniciarSesion(string usuario, string contraseña)
         {
+            /* 
+             "PRUEBA INICIO SESIÓN"
+             USUARIO: usuario1
+             CONTRASEÑA: contraseña1 
+            */
+
             conexion.Open();
             SqlCommand iniciarSesion = new SqlCommand($"select Id, usuario, contraseña from Persona where usuario = '{usuario}'", conexion);
             SqlDataReader lector = iniciarSesion.ExecuteReader();
